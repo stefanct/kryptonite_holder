@@ -6,8 +6,8 @@ include <utils/transformations.scad>
 
 kryptonite_base_d=31.5;
 kryptonite_base_h=160;
-kryptonite_base_cap_h=5;
-kryptonite_base_cap_r=50;
+kryptonite_base_cap_h=9;
+kryptonite_base_cap_r=30;
 kryptonite_w=kryptonite_base_h+kryptonite_base_cap_h;
 
 u_kryptonite_base_d=16;
